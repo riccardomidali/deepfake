@@ -18,7 +18,7 @@ Il file `RealTimeRecognition.py` offre le stesse funzionalità di `FaceAttribute
 Ogni modulo Python richiede le seguenti librerie installate e configurate correttamente:
 
 - DeepFace: Per l'analisi facciale. Puoi installare le dipendenze utilizzando pip install deepface nel tuo ambiente Python.
-- matplotlib: Utilizzato per la visualizzazione dei dati o delle immagini.
+- Matplotlib: Utilizzato per la visualizzazione dei dati o delle immagini.
 - OpenCV: Necessario per l'acquisizione e l'elaborazione delle immagini dalla webcam.
 
 Puoi installarle utilizzando `pip install deepface`, `pip install matplotlib`, `pip install opencv-python` nel tuo ambiente Python.
