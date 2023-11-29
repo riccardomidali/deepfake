@@ -1,2 +1,22 @@
-# Deepfake
-Progetto di principi e modelli della percezione
+# DeepFake utilizzando la libreria DeepFace
+
+Questo progetto utilizza la libreria DeepFace per eseguire analisi e riconoscimento facciale su immagini e video. È composto da tre principali componenti:
+
+### Face Recognition
+Il file `FaceRecognition.py` permette di valutare se due immagini in input raffigurano lo stesso volto. Utilizzando la libreria DeepFace, esegue un confronto tra le immagini per determinare la corrispondenza facciale.
+
+### FaceAttribute
+Il modulo `FaceAttribute.py` accetta un'immagine contenente un volto e restituisce informazioni riguardanti età, genere, razza e stato emotivo. Sfruttando le funzionalità di DeepFace, analizza i tratti facciali per fornire una descrizione.
+
+### RealTimeRecognition
+Il file `RealTimeRecognition.py` offre le stesse funzionalità di `FaceAttribute`, ma funziona in tempo reale utilizzando la webcam. Riconosce e analizza i volti inquadrati dalla telecamera per fornire informazioni sul volto osservato.
+
+## Requisiti
+Ogni modulo Python richiede le seguenti librerie installate e configurate correttamente:
+
+- DeepFace: Per l'analisi facciale. Puoi installare le dipendenze utilizzando pip install deepface nel tuo ambiente Python.
+- matplotlib: Utilizzato per la visualizzazione dei dati o delle immagini.
+- OpenCV: Necessario per l'acquisizione e l'elaborazione delle immagini dalla webcam.
+
+Puoi installarle utilizzando `pip install deepface`, `pip install matplotlib`, `pip install opencv-python` nel tuo ambiente Python.
+
