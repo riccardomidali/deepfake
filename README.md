@@ -3,7 +3,7 @@
 Questo progetto utilizza la libreria DeepFace per eseguire analisi e riconoscimento facciale su immagini.
 
 ## DeepFace
-DeepFace è un efficiente framework per il riconoscimento facciale e l'analisi degli attributi progettato per Python. Questo strumento sfrutta modelli all'avanguardia come VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib e SFace per riconoscere i volti e analizzare attributi come età, genere, emozioni e razza. Gli esperimenti dimostrano che mentre gli esseri umani raggiungono una precisione media del 97,53% nei compiti di riconoscimento facciale, i modelli racchiusi all'interno di DeepFace superano e superano questo livello di precisione.
+DeepFace è un efficiente framework per il riconoscimento facciale e l'analisi degli attributi progettato per Python. Questo strumento sfrutta modelli all'avanguardia come VGG-Face, Google FaceNet, OpenFace, Facebook DeepFace, DeepID, ArcFace, Dlib e SFace per riconoscere i volti e analizzare attributi come età, genere, emozioni e razza. Gli esperimenti dimostrano che mentre gli esseri umani raggiungono una precisione media del 97,53% nei compiti di riconoscimento facciale, i modelli racchiusi all'interno di DeepFace superano questo livello di precisione.
 
 ## Face Recognition
 Il file `FaceRecognition.py` permette di valutare se due immagini in input raffigurano lo stesso volto. Utilizzando la libreria DeepFace, esegue un confronto tra le immagini per determinare la corrispondenza facciale.
