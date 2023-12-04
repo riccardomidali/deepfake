@@ -12,7 +12,7 @@ Ogni modulo Python richiede le seguenti librerie installate e configurate corret
 - Matplotlib: Utilizzato per la visualizzazione dei dati o delle immagini.
 - OpenCV: Necessario per l'acquisizione e l'elaborazione delle immagini dalla webcam.
 
-Puoi installarle utilizzando `pip install deepface`, `pip install matplotlib`, `pip install opencv-python` nel tuo ambiente Python.
+Puoi installarle utilizzando `pip install deepface`, `pip install matplotlib`, `pip install opencv-python` nel tuo terminale.
 
 ## Face Recognition
 Il file `FaceRecognition.py` permette di valutare se due immagini in input raffigurano lo stesso volto. Utilizzando la libreria DeepFace, esegue un confronto tra le immagini per determinare la corrispondenza facciale.
