@@ -1,5 +1,7 @@
 # DeepFake utilizzando la libreria DeepFace
 
+Link alla presentazione: 
+
 Questo progetto utilizza la libreria DeepFace per eseguire analisi e riconoscimento facciale su immagini.
 
 ## DeepFace
