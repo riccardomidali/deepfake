@@ -1,6 +1,6 @@
 # DeepFake utilizzando la libreria DeepFace
 
-Link alla presentazione: 
+Link alla presentazione: https://www.canva.com/design/DAF2AYi_mxw/Zr2LEoWrNHFRFIuW-U0I9Q/edit?utm_content=DAF2AYi_mxw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Questo progetto utilizza la libreria DeepFace per eseguire analisi e riconoscimento facciale su immagini.
 
